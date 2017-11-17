@@ -1,1 +1,1 @@
-cz init 1 2
+cz init 1 2 3
